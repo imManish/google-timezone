@@ -1,0 +1,21 @@
+{
+    "name": "manishj/timezone",
+    "description": "This is used to have google timezone format using library",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Manishj\\Timezone\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manish Jakhode",
+            "email": "manish.j@impression-works.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
